@@ -15,6 +15,7 @@ function App () {
         <div className="App bg-info-subtle min-vh-100 align-items-center text-dark">
             <header className="">
             <NavbarComp/>
+            
             </header>
         <Routes>
             <Route path='/' element={<Home/>} />

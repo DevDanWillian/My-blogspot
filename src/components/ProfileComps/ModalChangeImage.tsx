@@ -3,7 +3,7 @@ import React, {useState, useRef} from 'react'
 
 import { Modal, Button, Form, Image} from 'react-bootstrap'
 
-import profileImage from './Profile'
+import profileImage from '../Profile'
 
 interface ModalChangeImageProps {
   showModalImage: boolean;

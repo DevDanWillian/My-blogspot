@@ -1,7 +1,7 @@
 import React, {useState, useRef} from 'react'
 import { Container, Row, Col, Button, Image, Modal, Form } from 'react-bootstrap'
 
-import ModalChangeImage from './ModalChangeImage'
+import ModalChangeImage from './ProfileComps/ModalChangeImage'
 
 const Profile = () => {
   let userName= 'dan'
