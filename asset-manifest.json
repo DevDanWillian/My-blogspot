@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-blogspot/static/css/main.32866625.css",
-    "main.js": "/my-blogspot/static/js/main.d2a3bb1b.js",
+    "main.js": "/my-blogspot/static/js/main.7d7847c1.js",
     "static/js/787.c72676f0.chunk.js": "/my-blogspot/static/js/787.c72676f0.chunk.js",
     "index.html": "/my-blogspot/index.html",
     "main.32866625.css.map": "/my-blogspot/static/css/main.32866625.css.map",
-    "main.d2a3bb1b.js.map": "/my-blogspot/static/js/main.d2a3bb1b.js.map",
+    "main.7d7847c1.js.map": "/my-blogspot/static/js/main.7d7847c1.js.map",
     "787.c72676f0.chunk.js.map": "/my-blogspot/static/js/787.c72676f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32866625.css",
-    "static/js/main.d2a3bb1b.js"
+    "static/js/main.7d7847c1.js"
   ]
 }
